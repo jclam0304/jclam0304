@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jclam0304
-- 👀 I’m interested in cloud computing and bug data
-- 🌱 I’m currently learning google cloud platform, aws, azure cloud architecture
+- 👀 I’m interested in cloud computing and big data
+- 🌱 I’m currently learning cloud architecture
 - 💞️ I’m looking to collaborate on SaaS and cloud security
 - 📫 How to reach me : send me a text
 
